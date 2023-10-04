@@ -1,0 +1,30 @@
+package in.mindcraft;
+
+import java.io.IOException;
+
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
+@WebServlet("/square")
+public class SquareServlet extends HttpServlet{
+	
+	public void service(HttpServletRequest request, HttpServletResponse response) throws IOException
+	{
+		//int c=(int)request.getAttribute("c");
+		int c=Integer.parseInt(request.getParameter("c"));
+		
+		
+		HttpSession session=request.getSession();
+		int c s= (int)session.getAttribute("c");
+		
+		int square=c*c;
+		
+		response.getWriter().println("Square of addition - "+square);
+		
+		
+	}
+
+}

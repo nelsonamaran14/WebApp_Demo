@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Web App</title>
+</head>
+<body>
+	<h2>Welcome to first web application</h2
+	<form action="add">
+		Enter first number:<input type ="text" name="num1"/><br>
+		Enter second number:<input type="text" name="num2"/><br>
+		<button> submit</button>
+	</form>
+
+</body>
+</html>

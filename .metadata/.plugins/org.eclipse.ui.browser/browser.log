@@ -1,0 +1,36 @@
+
+Aug 21, 2023 10:10:35.320 NEW SESSION
+Aug 21, 2023 10:10:35.320 [30480:36452:0821/101035.317:ERROR:device_event_log_impl.cc(222)] [10:10:35.317] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 21, 2023 10:10:36.53 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 21, 2023 10:49:28.705 [32548:8432:0821/104928.704:ERROR:device_event_log_impl.cc(222)] [10:49:28.703] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 21, 2023 10:49:30.444 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 21, 2023 11:04:21.13 [32548:29564:0821/105406.785:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 21, 2023 11:04:21.169 [32548:29564:0821/110421.035:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Aug 21, 2023 12:03:23.559 [32548:28488:0821/120323.557:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for hrms.mindcraft.in failed:
+Aug 21, 2023 12:03:23.560 ----- Certificate i=0 (CN=WIN-JS28GL3HKFI) -----
+Aug 21, 2023 12:03:23.562 ERROR: No matching issuer found
+Aug 21, 2023 12:03:23.563 
+Aug 21, 2023 12:03:23.565 
+Aug 21, 2023 12:03:25.177 [32548:8432:0821/120325.175:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+Aug 21, 2023 12:08:11.670 [32548:8432:0821/120811.668:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+Aug 21, 2023 12:38:00.65 [32548:29564:0821/123800.064:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 21, 2023 12:38:01.192 [32548:29564:0821/123801.191:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 21, 2023 12:39:09.509 [32548:29564:0821/123909.509:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 21, 2023 12:40:12.472 [32548:29564:0821/124012.471:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 21, 2023 14:04:40.407 [32548:29564:0821/140440.406:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 21, 2023 14:39:06.704 [32548:29564:0821/143441.102:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 21, 2023 14:39:06.721 [32548:29564:0821/143906.720:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 21, 2023 14:52:21.23 [32548:29564:0821/145221.023:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 21, 2023 14:52:21.40 [32548:29564:0821/145221.039:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 21, 2023 15:30:06.541 [32548:29564:0821/152929.359:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 21, 2023 15:41:24.928 [32548:29564:0821/154029.357:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 21, 2023 15:41:24.967 [32548:29564:0821/154124.967:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 21, 2023 15:59:46.141 [32548:29564:0821/155946.140:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 21, 2023 15:59:46.255 [32548:29564:0821/155946.254:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 21, 2023 16:39:01.230 [32548:29564:0821/163901.229:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 21, 2023 16:39:01.286 [32548:29564:0821/163901.285:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 21, 2023 16:44:18.856 [32548:29564:0821/164418.855:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 21, 2023 16:44:18.875 [32548:29564:0821/164418.874:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 21, 2023 16:46:24.693 [32548:29564:0821/164620.532:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 21, 2023 16:55:48.808 [32548:29564:0821/165548.807:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 21, 2023 16:55:48.819 [32548:29564:0821/165548.819:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
